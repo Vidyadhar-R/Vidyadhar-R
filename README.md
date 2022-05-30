@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Vidyadhar-R
 - 👀 I’m interested in AWS Solution Architect
 - 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rsaividyadhar009@gmail.com
 
 <!---
